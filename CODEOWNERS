@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @juvxncio
+/src/backend/database.py      @juvxncio
+/src/backend/routers/auth.py  @juvxncio
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @juvxncio
